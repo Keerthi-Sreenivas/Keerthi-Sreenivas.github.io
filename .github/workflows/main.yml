@@ -24,6 +24,7 @@ jobs:
 
       - name: Build
         run: hugo
+        allow-failure: true
 
       - name: Deploy to live website
         uses: peaceiris/actions-gh-pages@v3
