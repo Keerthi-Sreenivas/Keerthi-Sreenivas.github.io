@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rich content on Keerthi</title>
+    <link>https://hugo-profile.netlify.app/tags/rich-content/</link>
+    <description>Recent content in Rich content on Keerthi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/rich-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>https://hugo-profile.netlify.app/blogs/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} 
+ Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} 
+Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16
+&amp;mdash; GoHugo.</description>
+    </item>
+    
+  </channel>
+</rss>
