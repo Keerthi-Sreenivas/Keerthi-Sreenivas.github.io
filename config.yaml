@@ -50,7 +50,7 @@ params:
     defaultTheme: "light" # dark
     color:  
         secondaryBackgroundColor: "Blue"
-      darkmode:
+    darkmode:
         secondaryBackgroundColor: "Blue"
 
   # font:
