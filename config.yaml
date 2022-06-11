@@ -93,10 +93,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi there!I'm "
+    intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
     #subtitle: "Current location: Rochester, NY"
-    content: "I'm a passionate Data Science Graduate student who loves using data to build stories, enhance products and markets. I'm also a food Vlogger and Street Photographer !"
+    content: "I'm a passionate Data Science Graduate student who loves using data to build stories and enhance products. I'm also a food Vlogger and Street Photographer !"
     image: "images/me1.jpg"
     button:
       background - color: 
@@ -151,6 +151,7 @@ params:
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
           - Working with Cross functional teams to Extract and Engineer Data from the web
           - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
+          
       - job: "Technical Instructor Intern"
         company: "KITOLIT"
         companyUrl: "https://www.kitolit.com"
