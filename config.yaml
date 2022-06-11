@@ -140,9 +140,10 @@ params:
       - job: "Data Science Intern"
         company: "Allogene - Cancer Research"
         companyUrl: "https://example.com"
-        date: "San Francisco, CA | May 2022 - Aug 2022"
+        date: "May 2022 - Aug 2022"
         info:
           enable: false
+          content: " San Francisco, CA "
         featuredLink:
           enable: false
           url: "https://example.com"
