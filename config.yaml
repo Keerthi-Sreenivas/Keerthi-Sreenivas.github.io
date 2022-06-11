@@ -96,7 +96,7 @@ params:
     intro: "Hi there!"
     title: "I'm Keerthi Sreenivas"
     #subtitle: "I'm Keerthi Sreenivas"
-    content: "I'm a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I love food Vlogging and Street Photography!"
+    content: "I'm a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I do food Vlogging and Street Photography !"
     image: "images/me1.jpg"
     button:
       background - color: 
@@ -118,30 +118,27 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work from December 2022 - F1 Visa"
+    title: "I'm Open to work from December 2022 - Would Require Work Sponsorship"
     image: "/images/me21.jpg"
     content: |-
-     -  I am currently working as Data Science R Intern at Allogene Therapeutics https://allogene.com. 
+     -  I am currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
+     -  Located in Rochester, New York.
      -  I'm a Masters in Data Science student with 3+years of academic experience in Python, R, Machine Learning and Big Data. 
      -  I have a strong interest in the the intersection of Technology and Business.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Skills:"
       items:
-        - "Python"
-        - "R"
-        - "SQL"
-        - "PySpark"
-        - "ML libraries in Python"
-        - "MLOps"
-        - "AWS"
+        - "Python, R, SQL, Spark in Databricks, Sci-Kit Learn, MLops, AWS"
+        - "Mentoring, Leadership, Multi-Cultural, Fluency, Team Player"
+       
 
   # Experience
   experience:
     enable: true
     items:
       - job: "Data Science R Intern"
-        company: "Allogene Therapeutics - Cancer Research"
+        company: "Allogene Therapeutics - Cancer Research Firm"
         companyUrl: "https://allogene.com"
         date: "May 2022 - Aug 2022"
         #featuredLink:
@@ -149,9 +146,9 @@ params:
         # name: "View the project"
          # url: "https://example.com"
         content:
-          Working to Develop a Data Issue tracker dashboard that displays the missing values, anomalies and other pre-processing problems in data.
+          Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.
           
-          - Developing a Data Issue Tracking Dashboard to reducce time in communication between Statistical Programming and Data Management Team
+          - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
           - Working with Cross functional teams to Engineer and Extract from the web
           - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
 
