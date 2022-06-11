@@ -184,24 +184,11 @@ params:
           - Collaborated with other interns to define the features of the Device.
           - Designed the Circuit Diagram.
           - Presented Demo's to several Professors.
-      - job: "IoT Intern"
-        company: "BITS Pilani"
-        #companyUrl: "https://example.com"
-        date: "Hyderabad, India | June 2018 - July 2018"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: 
-            Worked on Developing a Smart Medicine reminder kit at a Startup in the BITS Pilani Incubation Center.
-          - Collaborated with other interns to define the features of the Device.
-          - Designed the Circuit Diagram.
-          - Presented Demo's to several Professors.
 
       - job: "Data Science R Intern"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        company: "Allogene Therapeutics"
+        companyUrl: "https://allogene.com"
+        date: "San Francisco, California | May 2022 - Aug 2022"
         featuredLink:
           enable: true
           url: "https://example.com"
