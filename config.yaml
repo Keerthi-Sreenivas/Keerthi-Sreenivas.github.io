@@ -96,8 +96,8 @@ params:
     enable: true
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
-    subtitle: "A passionate Data Science Graduate student who loves using data to build stories and to enhance products. I'm also a food Vlogger and Street Photographer !"
-    content: "Rochester, NY"
+    #subtitle: 
+    content: "A passionate Data Science Graduate Student who loves using data to build stories and to enhance products. I'm also a food Vlogger and Street Photographer ! I live in Rochester, NY"
     image: "images/me1.jpg"
     button:
       background - color: 
