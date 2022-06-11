@@ -121,10 +121,9 @@ params:
     title: "I'm Open to work from December 2022 - Would Require Work Sponsorship"
     image: "/images/me21.jpg"
     content: |-
-     -  I am currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
-     -  Located in Rochester, New York.
-     -  I'm a Masters in Data Science student with 3+years of academic experience in Python, R, Machine Learning and Big Data. 
-     -  I have a strong interest in the the intersection of Technology and Business.
+     I'm currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
+     I'm a Masters in Data Science student with 4+years of academic experience in Python, R, Machine Learning and Big Data. 
+     I have a strong interest in the the intersection of Technology and Business.
     skills:
       enable: true
       title: "Skills:"
@@ -171,7 +170,7 @@ params:
 
       - job: "IoT Intern"
         company: " BITS Pilani Indibots "
-        companyUrl: "https://www.kitolit.com"
+        #companyUrl: "https://www.kitolit.com"
         date: " Hyderabad, India June 2018 - July 2018"
         info:
           enable: false
@@ -199,14 +198,14 @@ params:
         date: "2021 - 2022"
         GPA: "3.7 out of 4.0"
         content: |-
-            - Course Work: Data Science at scale, Machine Learning, Applied Statistical Methods, Data Mining, Technical Entrepreneurship, Time Series analysis and forecasting.
             - Worked as a Teaching Assistant for Big Data at the Simon Business School, University of Rochester
             - Worked as a Research assistant to pre-process Bio-Medical Image data for training a U-Net Deep Learning Algorithm in the Machine Learning team at the Vaccine Biology and Dermatology labs in University Medical Center
             - Attending Grace Hopper 2022 Conference with University Scholarship
+            Course Work: Data Science at scale, Machine Learning, Applied Statistical Methods, Data Mining, Technical Entrepreneurship, Time Series analysis and forecasting.
 
             Extracurricular Activities
              - Won first place in the Creative Collision Chanllenge 2022 Pitching competition 
-             - Conducted and guided a Zumba workshop under Rochester Indian Association
+             - Conducted and Mentored a Zumba workshop under Rochester Indian Association
              - Active member of UR Photography club
       - title: "Bachelor of Technology in Computer Science and Engineering"
         school:
@@ -225,7 +224,7 @@ params:
           
 
           Extracurricular Activities
-            - Won 2nd place in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
+            - Won 2nd place All India in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
             - Was the Elected Cultural Club Secretary from 2019-2021
             - Won several Photography competitions during all 4 years.
 
@@ -238,9 +237,11 @@ params:
   achievements:
     enable: true
     items:
-      - title: Smart India Hackathon 2020
-        content: Won 2nd place in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
-        url: "https://www.sih.gov.in"
+      #- title: Smart India Hackathon 2020
+       # content: Won 2nd place in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
+        #url: "https://www.sih.gov.in"
+      - title: Women Entrepreneur Week Candidate 2020
+        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor app.
       - title: Women Entrepreneur Week Candidate 2020
         content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor app.
       - title: Elected Cultural Secretary 2019 - 2021
