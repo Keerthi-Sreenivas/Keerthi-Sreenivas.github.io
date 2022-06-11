@@ -140,7 +140,7 @@ params:
       - job: "Data Science R Intern"
         company: "Allogene Therapeutics - Cancer Research Firm"
         companyUrl: "https://allogene.com"
-        date: "May 2022 - Aug 2022"
+        date: "Sanfrancisco, California May 2022 - Aug 2022"
         #featuredLink:
         #  enable: true
         # name: "View the project"
@@ -149,14 +149,14 @@ params:
           Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.
           
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
-          - Working with Cross functional teams to Engineer and Extract from the web
+          - Working with Cross functional teams to Extract and Engineer Data from the web
           - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
           
 
       - job: "Technical Instructor Intern"
-        company: "KITOLIT"
+        company: "KITOLIT - EduTech"
         companyUrl: "https://www.kitolit.com"
-        date: "Jul 2020 - Nov 2020"
+        date: " Hyderabad, India Jul 2020 - Nov 2020"
         info:
           enable: false
         #featuredLink:
@@ -168,6 +168,23 @@ params:
           - Lead Technical Instructor
           - Designed the curriculum and Produced Content for an experiential learning course "Java for Middle School Kids".
           - Took One-on-One classes for Students in the USA during Late/Early hours.
+
+      - job: "IoT Intern"
+        company: " BITS Pilani Indibots "
+        companyUrl: "https://www.kitolit.com"
+        date: " Hyderabad, India June 2018 - July 2018"
+        info:
+          enable: false
+        #featuredLink:
+          #enable: true
+          #url: "https://www.kitolit.com"
+        content: |-
+          Worked on Developing a Smart Medicine reminder kit.
+
+          - Collaborated with other interns to define the features of the Device.
+          - Designed the Circuit Diagram.
+          - Presented Demo's to several Professors.
+    
 
 
   # Education
