@@ -185,7 +185,7 @@ params:
           - Designed the Circuit Diagram.
           - Presented Demo's to several Professors.
       - job: "IoT Intern"
-        company: "BITS Pilani Indibots"
+        company: "BITS Pilani"
         #companyUrl: "https://example.com"
         date: "Hyderabad, India | June 2018 - July 2018"
         featuredLink:
@@ -193,12 +193,12 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: 
-            Worked on Developing a Smart Medicine reminder kit.
+            Worked on Developing a Smart Medicine reminder kit at a Startup in the BITS Pilani Incubation Center.
           - Collaborated with other interns to define the features of the Device.
           - Designed the Circuit Diagram.
           - Presented Demo's to several Professors.
 
-      - job: "Software Developer"
+      - job: "Data Science R Intern"
         company: "Amazon"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
@@ -212,6 +212,7 @@ params:
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
           - Lead backend developer for a product.
           - Created a frontend design for a product.
+          
       - job: "Junior Software Developer"
         company: "Apple"
         companyUrl: "https://example.com"
@@ -225,6 +226,7 @@ params:
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
           - Lead backend developer for a product.
           - Created a frontend design for a product.
+          
       - job: "UI/UX Designer"
         company: "Netflix"
         companyUrl: "https://example.com"
@@ -236,6 +238,7 @@ params:
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
           - Lead backend developer for a product.
           - Created a frontend design for a product.
+          
       - job: "Product Designer"
         company: "Google"
         companyUrl: "https://example.com"
