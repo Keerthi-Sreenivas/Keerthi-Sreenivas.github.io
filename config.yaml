@@ -174,7 +174,7 @@ params:
           
       - job: "IoT Intern"
         company: " BITS Pilani Indibots "
-        #companyUrl: "https://www.kitolit.com"
+        companyUrl: "https://www.f6s.com/indibots"
         date: "June 2018 - July 2018"
         info:
           enable: true
