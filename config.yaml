@@ -78,7 +78,7 @@ params:
 
   # If you want to customize the menu, you can change it here
   navbar:
-    position: fixed
+      position: fixed
   #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
