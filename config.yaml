@@ -142,7 +142,7 @@ params:
         companyUrl: "https://example.com"
         date: "May 2022 - Aug 2022"
         info:
-          enable: false
+          enable: true
           content: " San Francisco, CA "
         featuredLink:
           enable: false
@@ -151,27 +151,39 @@ params:
           Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
           - Working with Cross functional teams to Extract and Engineer Data from the web
-          - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
-          
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-          
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."          
+          - Reporting to Director of Statistical Analysis and Data Analytics and R Programme    
     
-
+      - job: "Technical Instructor Intern"
+        company: "KITOLIT"
+        companyUrl: "https://www.kitolit.com"
+        date: "Jul 2020 - Nov 2020"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://www.kitolit.com"
+        info:
+          content: Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
+        content: |-
+          Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
+          - Lead Technical Instructor
+          - Designed the curriculum and Produced Content for an experiential learning course "Java for Middle School Kids".
+          - Took One-on-One classes for Students in the USA during Late/Early hours.  
+          
+      - job: "IoT Intern"
+        company: " BITS Pilani Indibots "
+        #companyUrl: "https://www.kitolit.com"
+        date: "June 2018 - July 2018"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://www.kitolit.com"
+        content: |-
+          Worked on Developing a Smart Medicine reminder kit.
+          - Collaborated with other interns to define the features of the Device.
+          - Designed the Circuit Diagram.
+          - Presented Demo's to several Professors.
 
 
   # Education
