@@ -208,13 +208,13 @@ Keerthi
                     Hi there!
                 </span>
                 <h2>
-                    
+                    I&#39;m Keerthi Sreenivas
                 </h2>
                 <h3>
-                    I Keerthi Sreenivas
+                    
                 </h3>
                 <p class="hero-content">
-                    I&rsquo;m a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I&rsquo;m also a food Vlogger and a Photographer!
+                    I&rsquo;m a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I love food Vlogging and Street Photography!
                 </p>
                 <div class="row">
                     <div class="col-auto h-100">
@@ -1114,15 +1114,13 @@ Keerthi
     </div>
 </div></footer>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
+    if (document.body.className.includes("dark")) {
+        document.body.classList.remove('dark');
+        localStorage.setItem("pref-theme", 'light');
     }
-
 </script>
+
+
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
         if (document.body.className.includes("dark")) {
