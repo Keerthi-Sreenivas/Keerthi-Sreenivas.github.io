@@ -285,7 +285,7 @@ params:
     btnName: Mail me
 
   footer:
-    # recentPosts: false
+    recentPosts: false
     socialNetworks:
       github: https://github.com/Keerthi-Sreenivas
       linkedin: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
