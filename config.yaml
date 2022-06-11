@@ -139,7 +139,7 @@ params:
       - job: "Data Science R Intern"
         company: "Allogene Therapeutics - Cancer Research Firm"
         companyUrl: "https://allogene.com"
-        date: "Sanfrancisco, California May 2022 - Aug 2022"
+        date: "San Francisco, California | May 2022 - Aug 2022"
         #featuredLink:
         #  enable: true
         # name: "View the project"
@@ -155,7 +155,7 @@ params:
       - job: "Technical Instructor Intern"
         company: "KITOLIT - EduTech"
         companyUrl: "https://www.kitolit.com"
-        date: " Hyderabad, India Jul 2020 - Nov 2020"
+        date: " Hyderabad, India | Jul 2020 - Nov 2020"
         info:
           enable: false
         #featuredLink:
@@ -171,7 +171,7 @@ params:
       - job: "IoT Intern"
         company: " BITS Pilani Indibots "
         #companyUrl: "https://www.kitolit.com"
-        date: " Hyderabad, India June 2018 - July 2018"
+        date: " Hyderabad, India | June 2018 - July 2018"
         info:
           enable: false
         #featuredLink:
@@ -240,15 +240,15 @@ params:
       #- title: Smart India Hackathon 2020
        # content: Won 2nd place in Smart India Hackathon 2020 for developing a Smart Yoga Instructor with feedback using Deep Learning
         #url: "https://www.sih.gov.in"
-      - title: Women Entrepreneur Week Candidate 2020
-        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor app.
-      - title: Women Entrepreneur Week Candidate 2020
-        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor app.
+      - title: Creative Collision Challenge 2022
+        content: Won 1st Place at the University of Rochester AIN Entrepreneurship cell's yearly pitching competition.
+      - title: Women Entrepreneurship Week Candidate 2020
+        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor application.
       - title: Elected Cultural Secretary 2019 - 2021
-        content: Conducted 15+ events with a footprint of more than 300+ students. Managed a team of 20 students for fundraising and event organization. Conducted events virtually during COVID for effective engagement among new students.
+        content: Conducted 15+ events with a footprint of more than 300+ students and Managed a team of 25 students for fundraising and event organization # Conducted events virtually during COVID for effective engagement among new students.
         url: "https://www.iiitkottayam.ac.in/#!/culturalClub"
-      - title: Author of “IoT based Smart Medicine Reminder Kit” at ACM/CSI/IEEE-CS Research and Industry Symposium at IIIT Kottayam 
-        content: I worked on this project for 1.5 years and was selected to present at the conference
+      - title: Presented my paper at ACM/CSI/IEEE-CS Conference. 
+        content: Author of “IoT based Smart Medicine Reminder Kit” at ACM/CSI/IEEE-CS Research and Industry Symposium at IIIT Kottayam (My Bachelor's Honors Project)
 
   # projects
   projects:
