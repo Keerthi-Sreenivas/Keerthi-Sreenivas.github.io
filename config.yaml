@@ -209,7 +209,7 @@ params:
              - Active member of UR Photography club
       - title: "Bachelor of Technology in Computer Science and Engineering"
         school:
-          name: "Indian Institute of Information Technology, Kottayam"
+          name: "Indian Institute of Information Technology(IIIT), Kottayam"
           url: "http://www.iiitkottayam.ac.in/#!/home"
         date: "2017 - 2021"
         GPA: "8.96 out of 10"
@@ -290,14 +290,14 @@ params:
         image: /images/projects/advert1.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/statistics
+          link: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/statistics
+            url: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
 
   #Contact
   contact:
