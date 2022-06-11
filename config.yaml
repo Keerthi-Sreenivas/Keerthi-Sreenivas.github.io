@@ -47,9 +47,11 @@ params:
 
   theme:
     disableThemeToggle: false
-    #defaultTheme: "dark" #"light" # dark
+    defaultTheme: "light" # dark
     color:  
-      secondaryBackgroundColor: "Blue"
+        secondaryBackgroundColor: "Blue"
+      darkmode:
+        secondaryBackgroundColor: "Blue"
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -92,9 +94,9 @@ params:
   hero:
     enable: true
     intro: "Hi there!"
-    #title: "Keerthi"
-    subtitle: "I Keerthi Sreenivas"
-    content: "I'm a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I'm also a food Vlogger and a Photographer!"
+    title: "I'm Keerthi Sreenivas"
+    #subtitle: "I'm Keerthi Sreenivas"
+    content: "I'm a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I love food Vlogging and Street Photography!"
     image: "images/me1.jpg"
     button:
       background - color: 
