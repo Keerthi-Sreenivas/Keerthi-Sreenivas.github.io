@@ -48,6 +48,8 @@ params:
   theme:
     disableThemeToggle: false
     #defaultTheme: "dark" #"light" # dark
+    color:  
+      secondaryBackgroundColor: "Blue"
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
