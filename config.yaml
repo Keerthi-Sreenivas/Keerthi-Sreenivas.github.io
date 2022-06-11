@@ -95,7 +95,7 @@ params:
     enable: true
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
-    #subtitle: "Current location: Rochester, NY"
+    subtitle: "I'm Open to work from December 2022"
     content: "I'm a passionate Data Science Graduate student who loves using data to build stories and enhance products. I'm also a food Vlogger and Street Photographer !"
     image: "images/me1.jpg"
     button:
@@ -156,8 +156,8 @@ params:
         company: "KITOLIT"
         companyUrl: "https://www.kitolit.com"
         date: " Hyderabad, India | Jul 2020 - Nov 2020"
-        #info:
-          #enable: false
+        info:
+          enable: true
         #featuredLink:
           #enable: true
           #url: "https://www.kitolit.com"
@@ -172,8 +172,8 @@ params:
         company: " BITS Pilani Indibots "
         #companyUrl: "https://www.kitolit.com"
         date: " Hyderabad, India | June 2018 - July 2018"
-        #info:
-          #enable: false
+        info:
+          enable: true
         #featuredLink:
           #enable: true
           #url: "https://www.kitolit.com"
