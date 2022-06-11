@@ -50,8 +50,8 @@ params:
     defaultTheme: "light" # dark
     color:  
         secondaryBackgroundColor: "Blue"
-    darkmode:
-        secondaryBackgroundColor: "Blue"
+    #darkmode:
+        #secondaryBackgroundColor: "Blue"
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -118,7 +118,7 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work from December 2022"
+    title: "I'm Open to work from December 2022 - F1 Visa"
     image: "/images/me21.jpg"
     content: |-
      -  I am currently working as Data Science R Intern at Allogene Therapeutics https://allogene.com. 
@@ -141,7 +141,7 @@ params:
     enable: true
     items:
       - job: "Data Science R Intern"
-        company: "Allogene Therapeutics"
+        company: "Allogene Therapeutics - Cancer Research"
         companyUrl: "https://allogene.com"
         date: "May 2022 - Aug 2022"
         #featuredLink:
@@ -161,9 +161,9 @@ params:
         date: "Jul 2020 - Nov 2020"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://www.kitolit.com"
+        #featuredLink:
+          #enable: true
+          #url: "https://www.kitolit.com"
         content:
           Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
 
