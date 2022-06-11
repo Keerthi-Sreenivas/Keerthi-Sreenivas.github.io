@@ -151,7 +151,22 @@ params:
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
           - Working with Cross functional teams to Engineer and Extract from the web
           - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
+          
+      - job: "Data Science R Intern"
+        company: "Allogene Therapeutics - Cancer Research Firm"
+        companyUrl: "https://allogene.com"
+        date: "May 2022 - Aug 2022"
+        info:
+          enable: false
+        #featuredLink:
+          #enable: true
+          #url: "https://www.kitolit.com"
+        content:
+          Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.re and content.
 
+          - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
+          - Working with Cross functional teams to Engineer and Extract from the web
+          - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer
       - job: "Technical Instructor Intern"
         company: "KITOLIT"
         companyUrl: "https://www.kitolit.com"
