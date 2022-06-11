@@ -145,7 +145,7 @@ params:
         #  enable: true
         # name: "View the project"
          # url: "https://example.com"
-        content:
+        content: |-
           Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.
           
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team
@@ -162,7 +162,7 @@ params:
         #featuredLink:
           #enable: true
           #url: "https://www.kitolit.com"
-        content:
+        content: |-
           Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
 
           - Lead Technical Instructor
