@@ -96,7 +96,7 @@ params:
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
     #subtitle: "I'm Open to work from December 2022"
-    content: "I'm a passionate Data Science Graduate student who loves using data to build stories and enhance products. I'm also a food Vlogger and Street Photographer !"
+    content: "A passionate Data Science Graduate student who loves using data to build stories and to enhance products. I'm also a food Vlogger and Street Photographer !"
     image: "images/me1.jpg"
     button:
       background - color: 
@@ -121,7 +121,7 @@ params:
     title: "I'm Open to work from December 2022"
     image: "/images/me21.jpg"
     content: |-
-     Currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
+     Currently working as Data Science Intern at Allogene Therapeutics https://allogene.com
      A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
      
@@ -145,7 +145,7 @@ params:
           enable: false
         # name: "View the project"
          # url: "https://example.com"
-        infor:
+        info:
           enable: true
           content: Developing a Data Issue tracker dashboard application to replace Licensed software saving more than $80,000 for the company.
         content: |-
@@ -184,15 +184,19 @@ params:
           - Collaborated with other interns to define the features of the Device.
           - Designed the Circuit Diagram.
           - Presented Demo's to several Professors.
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "IoT Intern"
+        company: "BITS Pilani Indibots"
+        #companyUrl: "https://example.com"
+        date: "Hyderabad, India | June 2018 - July 2018"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: 
+            Worked on Developing a Smart Medicine reminder kit.
+          - Collaborated with other interns to define the features of the Device.
+          - Designed the Circuit Diagram.
+          - Presented Demo's to several Professors.
 
       - job: "Software Developer"
         company: "Amazon"
