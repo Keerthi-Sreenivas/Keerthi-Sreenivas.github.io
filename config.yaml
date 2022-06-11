@@ -144,7 +144,7 @@ params:
         date: "May 2022 - Aug 2022"
         info:
           enable: true
-          content: " San Francisco, CA "
+          content: "Location: San Francisco, CA "
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -159,7 +159,8 @@ params:
         companyUrl: "https://www.kitolit.com"
         date: "Jul 2020 - Nov 2020"
         info:
-          enable: false
+          enable: true
+          content: "Location: Hyderabad, India"
         featuredLink:
           enable: false
           url: "https://www.kitolit.com"
@@ -176,7 +177,8 @@ params:
         #companyUrl: "https://www.kitolit.com"
         date: "June 2018 - July 2018"
         info:
-          enable: false
+          enable: true
+          content: "Location: Hyderabad, India "
         featuredLink:
           enable: false
           url: "https://www.kitolit.com"
@@ -199,7 +201,7 @@ params:
         date: "2021 - 2022"
         GPA: "3.7 out of 4.0"
         content: |-
-            - Worked as a Teaching Assistant for Big Data at the Simon Business School, University of Rochester
+            - Was a Teaching Assistant for Big Data at the Simon Business School, University of Rochester
             - Worked as a Research assistant to pre-process Bio-Medical Image data for training a U-Net Deep Learning Algorithm in the Machine Learning team at the Vaccine Biology and Dermatology labs in University Medical Center
             - Attending Grace Hopper 2022 Conference with University Scholarship
             Course Work: Data Science at scale, Machine Learning, Applied Statistical Methods, Data Mining, Technical Entrepreneurship, Time Series analysis and forecasting.
