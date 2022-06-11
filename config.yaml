@@ -280,7 +280,7 @@ params:
         image: /images/projects/doge4.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis
+          link: https://github.com/Keerthi-Sreenivas/Elon_Musk-Doge-Tweet_Analysis/blob/main/Facts_derived_from_the_study.pdf
         # badges:
         #   - "Django"
         #   - "Bootstrap"
