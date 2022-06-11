@@ -95,8 +95,8 @@ params:
     enable: true
     intro: "Hi there!I'm "
     title: "Keerthi Sreenivas"
-    subtitle: "Current location: Rochester, NY"
-    content: "I'm a passionate Data Science Graduate student. I love using data to build stories, enhance products and markets. I do food Vlogging and Street Photography !"
+    #subtitle: "Current location: Rochester, NY"
+    content: "I'm a passionate Data Science Graduate student who loves using data to build stories, enhance products and markets. I'm also a food Vlogger and Street Photographer !"
     image: "images/me1.jpg"
     button:
       background - color: 
@@ -118,11 +118,11 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work from December 2022 - Would Require Work Sponsorship"
+    title: "I'm Open to work from December 2022"
     image: "/images/me21.jpg"
     content: |-
-     I'm currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
-     I'm a Masters in Data Science student with 4+years of academic experience in Python, R, Machine Learning and Big Data. 
+     Currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
+     A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
      
     skills:
@@ -155,8 +155,8 @@ params:
         company: "KITOLIT"
         companyUrl: "https://www.kitolit.com"
         date: " Hyderabad, India | Jul 2020 - Nov 2020"
-        info:
-          enable: false
+        #info:
+          #enable: false
         #featuredLink:
           #enable: true
           #url: "https://www.kitolit.com"
@@ -166,12 +166,13 @@ params:
           - Lead Technical Instructor
           - Designed the curriculum and Produced Content for an experiential learning course "Java for Middle School Kids".
           - Took One-on-One classes for Students in the USA during Late/Early hours.
+          
       - job: "IoT Intern"
         company: " BITS Pilani Indibots "
         #companyUrl: "https://www.kitolit.com"
         date: " Hyderabad, India | June 2018 - July 2018"
-        info:
-          enable: false
+        #info:
+          #enable: false
         #featuredLink:
           #enable: true
           #url: "https://www.kitolit.com"
@@ -202,7 +203,7 @@ params:
             Course Work: Data Science at scale, Machine Learning, Applied Statistical Methods, Data Mining, Technical Entrepreneurship, Time Series analysis and forecasting.
 
             Extracurricular Activities
-             - Won first place in the Creative Collision Chanllenge 2022 Pitching competition 
+             - Won first place in the Creative Collision Challenge 2022 Pitching competition 
              - Conducted and Mentored a Zumba workshop under Rochester Indian Association
              - Active member of UR Photography club
       - title: "Bachelor of Technology in Computer Science and Engineering"
@@ -288,14 +289,14 @@ params:
         image: /images/projects/advert1.jpeg
         featured:
           name: Click here to know more!
-          link: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+          link: https://github.com/Keerthi-Sreenivas/statistics
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/Keerthi-Sreenivas/statistics/blob/main/Project.pdf
+            url: https://github.com/Keerthi-Sreenivas/statistics
 
   #Contact
   contact:
