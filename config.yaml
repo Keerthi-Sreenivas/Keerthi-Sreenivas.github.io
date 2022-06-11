@@ -130,6 +130,7 @@ params:
         - "PySpark"
         - "ML libraries in Python"
         - "MLOps"
+        - "AWS"
 
   # Experience
   experience:
