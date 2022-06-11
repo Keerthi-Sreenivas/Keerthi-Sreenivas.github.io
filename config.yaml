@@ -124,6 +124,7 @@ params:
      I'm currently working as Data Science Intern at Allogene Therapeutics https://allogene.com. 
      I'm a Masters in Data Science student with 4+years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
+     
     skills:
       enable: true
       title: "Skills:"
@@ -240,7 +241,7 @@ params:
       - title: Creative Collision Challenge 2022
         content: Won 1st Place at the University of Rochester AIN Entrepreneurship cell's yearly pitching competition.
       - title: Women Entrepreneurship Week Candidate 2020
-        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor application.
+        content: Was selected to meet a Senior Director from Jio Industries for a discussion about the Smart Yoga Instructor application AIC Incubation Center at IIIT Kottayam.
       - title: Elected Cultural Secretary 2019 - 2021
         content: Conducted 15+ events with a footprint of more than 300+ students and Managed a team of 25 students for fundraising and event organization # Conducted events virtually during COVID for effective engagement among new students.
         url: "https://www.iiitkottayam.ac.in/#!/culturalClub"
