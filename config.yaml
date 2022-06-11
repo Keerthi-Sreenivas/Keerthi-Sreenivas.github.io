@@ -119,9 +119,9 @@ params:
     title: "I'm Open to work from December 2022"
     image: "/images/me21.jpg"
     content: |-
+     -  I am currently working as Data Science R Intern at Allogene Therapeutics https://allogene.com. 
      -  I'm a Masters in Data Science student with 3+years of academic experience in Python, R, Machine Learning and Big Data. 
      -  I have a strong interest in the the intersection of Technology and Business.
-     -  I am currently working as Data Science R Intern at Allogene Therapeutics https://allogene.com. 
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
