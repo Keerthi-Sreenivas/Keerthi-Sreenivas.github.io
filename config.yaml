@@ -154,7 +154,7 @@ params:
           - Working with Cross functional teams to Extract and Engineer Data from the web
           - Reporting to Director of Statistical Analysis and Data Analytics and Data Scientist
       
-      - job: "Teaching Assitant"
+      - job: "Teaching Assitant - Big Data"
         company: "Simon Business School"
         companyUrl: "http://simon.rochester.edu"
         date: "Oct 2020 - May 2021"
@@ -170,7 +170,7 @@ params:
           Rochester, NY
           - Conducted weekly office hours & taught 200+ students on Big data tools like : Hadoop, Hive, PySpark, and Databricks
           - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3.
-          - Graded assignments in a timely manner and Proctored finals.      
+          - Graded assignments, Participation in a timely manner and Proctored finals.      
     
       - job: "Technical Instructor Intern"
         company: "KITOLIT"
