@@ -152,7 +152,25 @@ params:
           San Francisco, California
           - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team, and replacing licensed software savin more than $80,000 per year for the company.
           - Working with Cross functional teams to Extract and Engineer Data from the web
-          - Reporting to Director of Statistical Analysis and Data Analytics and R Programmer    
+          - Reporting to Director of Statistical Analysis and Data Analytics and Data Scientist
+      
+      - job: "Teaching Assitant"
+        company: "Simon Business School"
+        companyUrl: "http://simon.rochester.edu"
+        date: "Oct 2020 - May 2021"
+        info:
+          enable: true
+          content: "Location: Rochester, NY"
+        featuredLink:
+          enable: false
+          url: "http://simon.rochester.edu"
+        info:
+          content:
+        content: |-
+          Rochester, NY
+          - Conducted weekly office hours & taught 200+ students on Big data tools like : Hadoop, Hive, PySpark, and Databricks
+          - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3.
+          - Graded assignments in a timely manner and Proctored finals.      
     
       - job: "Technical Instructor Intern"
         company: "KITOLIT"
