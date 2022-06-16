@@ -98,7 +98,7 @@ params:
     title: "Keerthi Sreenivas"
     #subtitle: 
     content: "A passionate Data Science Graduate Student who loves using data to build stories and enhance products. I'm also a food Vlogger and Street Photographer ! I live in Rochester, NY"
-    image: "images/My project.png"
+    image: "images/My project-2.png"
     button:
       background - color: 
       enable: true
@@ -120,7 +120,7 @@ params:
   about:
     enable: true
     title: "I'm Open to work from December 2022"
-    image: "/images/me21.jpg"
+    image: "/images/My project-4.png"
     content: |-
      Currently working as Data Science Intern at Allogene Therapeutics https://allogene.com
      A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
