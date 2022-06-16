@@ -150,9 +150,12 @@ params:
           url: "https://example.com"
         content: |
           San Francisco, California
-          - Developing a Data Issue Tracking Dashboard to reduce time in communication between Statistical Programming and Data Management Team, and replacing licensed software savin more than $80,000 per year for the company.
-          - Working with Cross functional teams to Extract and Engineer Data from the web
-          - Reporting to Director of Statistical Analysis and Data Analytics and Data Scientist
+          - Developed a Data Issue tracker dashboard application in R to reduce time in communication issues in data by 70% which replaced existing licensed software thereby saving $160,000 annually for the company
+          - Performed stakeholder analysis and translated functional requirements to build the roadmap for iterative development.
+          - Synthesized User-friendly front-end layouts and designed actionable metrics in the dashboard for the Analytics Team
+          - Worked with cross-functional teams to automate object extraction in and performed ETL to store it in Aws S3 buckets.
+          - Built a practice to write efficient and reusable code with configuration files with minimal technical debt
+
       
       - job: "Teaching Assitant - Big Data"
         company: "Simon Business School"
@@ -168,10 +171,9 @@ params:
           content:
         content: |-
           Rochester, NY
-          - Conducted weekly office hours & taught 200+ students on Big data tools like : Hadoop, Hive, PySpark, and Databricks
-          - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3.
-          - Graded assignments, Participation in a timely manner and Proctored finals.      
-    
+          - Conducted weekly doubt-solving sessions & taught 200+ students on Big data tools like: Hadoop, Hive, PySpark, Databricks
+          - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3 and other ad-hoc data democratization tasks.
+
       - job: "Technical Instructor Intern"
         company: "KITOLIT"
         companyUrl: "https://www.kitolit.com"
@@ -186,9 +188,8 @@ params:
           content: Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
         content: |-
           Hyderabad, India
-          - Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
-          - Designed the curriculum and Produced Content for an experiential learning course "Java for Middle School Kids".
-          - Took One-on-One classes for Students in the USA during Late/Early hours.  
+          - Designed the curriculum and produced Content for an experiential learning course “Javascript  for Middle School Kids” by creating fun and interactive lessons  increasing enrollment by 45% Qtr over Qtr
+          - Offered one-on-one Mentoring  sessions from India for students in the USA henceforth generating revenue of $6,400   
           
       - job: "IoT Intern"
         company: " BITS Pilani Indibots "
