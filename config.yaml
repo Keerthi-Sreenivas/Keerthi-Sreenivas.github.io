@@ -103,7 +103,7 @@ params:
       background - color: 
       enable: true
       name: "Resume"
-      url: "https://docs.google.com/document/d/1jorHDC8UwBozhrYE6wF7xPBpA0NbjSbW41joFTAHs9s/edit?usp=sharing"
+      url: "https://docs.google.com/document/d/1vUD64RGPchMDKgRPX353InBAEOTC_TTVSYW-88v7e9s/edit?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
