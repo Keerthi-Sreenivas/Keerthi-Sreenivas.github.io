@@ -97,13 +97,13 @@ params:
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
     #subtitle: 
-    content: "A passionate Data Science Graduate Student who loves using data to build stories and enhance products. I'm also a food Vlogger and Street Photographer ! I live in Rochester, NY"
+    content: "I'm a Cloud and Infrastructure Engineer and love storytelling with Data, Im located in NJ"
     image: "images/me_.jpg"
     button:
       background - color: 
       enable: true
       name: "Resume"
-      url: "https://docs.google.com/document/d/1vUD64RGPchMDKgRPX353InBAEOTC_TTVSYW-88v7e9s/edit?usp=sharing"
+      url: "https://docs.google.com/document/d/1a0hs-TN4p8ktH3FSd_BXCqC6oxawpmDGct_kl98sIqY/edit?usp=drivesdk"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -119,10 +119,11 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work from December 2022"
+    title: "I pursued a Masters in Data Science at the University of Rochester"
     image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
-     Currently working as Data Science Intern at Allogene Therapeutics https://allogene.com
+     I am currently working as Cloud and Infrastructure engineer in the Observability team at Barclays and my daily job involves collaborating with stakeholders, build pipelines and Projects stories using data 
+     I was a part of the Data Science by co-op at Allogene Therapeutics https://allogene.com
      A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
      
@@ -130,18 +131,36 @@ params:
       enable: true
       title: "Skills:"
       items:
-        - "Python, R, SQL, Spark in Databricks, Sci-Kit Learn, MLops, AWS"
-        - "Mentorship, Multi-Cultural Fluency, Team Player"
+        - "Python, R Shiny, R, SQL, HTML, CSS, Javascript, Ruby, KQL, SPL"
+        - "Mentorship, Team Player, Advocate for DEI"
        
 
   # Experience
   experience:
     enable: true
-    items:      
+    items:
+      - job: "Cloud/Infrastructure Engineer"
+        company: "Barclays - Global Technology Infrastructure Services"
+        companyUrl: "https://cards.barclaycardus.com/"
+        date: "Jan 2023 - Current"
+        info:
+          enable: true
+          content: "Location: Whippany, NJ "
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: |
+          Whippany, New Jersey 
+          - Implemented 7+ end-to-end Observability PoC's for diverse teams, optimizing Database, Networks, File Transfer, Voice Device, and Mainframe infrastructure functions
+          - Executed near-real-time decommissioning insights for Database servers, resulting in substantial resource savings for up to 450 SQL and Oracle Database Servers
+          - Championed the adoption of an Observability Mindset across Barclays, fostering a thriving community of over 2500 technology experts through 10+ workshops and 15+ Blogs in Splunk, Kibana and Elasticsearch
+          - Demonstrated proficiency in Kafka, Bitbucket, SQL, Elasticsearch, Chef, Logstash, Git, Kibana, and Splunk and Experimented with AWS Cloud watch and AWS X Ray
+          - Recognized as an emerging women leader and currently undergoing the global Emerging Leaders programme 2024 for thought leadership efforts and earned a nomination for the "Change Champion" Group Technology Award 2024
+          
       - job: "Data Science Intern"
         company: "Allogene - Cancer Research"
         companyUrl: "https://example.com"
-        date: "May 2022 - Aug 2022"
+        date: "May 2022 - Dec 2022"
         info:
           enable: true
           content: "Location: San Francisco, CA "
