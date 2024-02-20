@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
     #subtitle: 
-    content: "I'm a Cloud and Infrastructure Engineer and love storytelling with Data, Im located in NJ"
+    content: "I'm a Cloud and Infrastructure Engineer and I love telling stories with Data. I'm located in NJ"
     image: "images/me_.jpg"
     button:
       background - color: 
@@ -122,8 +122,8 @@ params:
     title: "I pursued a Masters in Data Science at the University of Rochester"
     image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
-     I am currently working as Cloud and Infrastructure engineer in the Observability team at Barclays and my daily job involves collaborating with stakeholders, build pipelines and Projects stories using data 
-     I was a part of the Data Science by co-op at Allogene Therapeutics https://allogene.com
+     I am currently working as Cloud and Infrastructure engineer in the Observability team at Barclays and my daily job involves collaborating with infrastructure stakeholders, building pipelines and telling stories using data.
+     I was a part of the Data Science by co-op at Allogene Therapeutics.
      A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
      
@@ -131,7 +131,7 @@ params:
       enable: true
       title: "Skills:"
       items:
-        - "Python, R Shiny, R, SQL, HTML, CSS, Javascript, Ruby, KQL, SPL"
+        - "Python, R Shiny, R, SQL, HTML, CSS, Javascript, Ruby, KQL, SPL, AWS S3, Elasticsearch, Kibana, Logstash, Kafka, Kafka connect, Splunk, AWS Cloudformation, AWS Cloudwatch, APM"
         - "Mentorship, Team Player, Advocate for DEI"
        
 
