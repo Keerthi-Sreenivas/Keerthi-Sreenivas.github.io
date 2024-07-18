@@ -97,7 +97,7 @@ params:
     intro: "Hi there! I'm "
     title: "Keerthi Sreenivas"
     #subtitle: 
-    content: "I'm a Cloud and Infrastructure Engineer and I love telling stories with Data. I'm located in NJ"
+    content: "Enterprise Support Engineer at AWS"
     image: "images/me_.jpg"
     button:
       background - color: 
@@ -108,10 +108,13 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Keerthi-Sreenivas
+        - icon: fab fa-topmate
+          url: https://topmate.io/keerthi_sreenivas_konjety
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
         - icon: fab fa-instagram
           url: https://www.instagram.com/accounts/login/?next=/keerthi__sreenivas/
+        
       #customIcons:
         #- icon: /fav.png
         #  url: "https://example.com"
@@ -119,10 +122,11 @@ params:
   # About
   about:
     enable: true
-    title: "I pursued a Masters in Data Science at the University of Rochester"
+    title: "About me"
     image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
-     I am currently working as Cloud and Infrastructure engineer in the Observability team at Barclays and my daily job involves collaborating with infrastructure stakeholders, building pipelines and telling stories using data.
+     Currently working as an Enterprise Support Engineer at AWS
+     Worked at Barclays as Cloud and Infrastructure engineer in the Observability team at Barclays and my activities involved collaborating with infrastructure stakeholders, building pipelines and telling stories using data.
      I was a part of the Data Science by co-op at Allogene Therapeutics.
      A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
      I have a strong interest in the the intersection of Technology and Business.
@@ -139,10 +143,23 @@ params:
   experience:
     enable: true
     items:
+      - job: "Enterprise Account Engineer"
+        company: "Amazon Web Services"
+        companyUrl: "https://aws.amazon.com/free/?gclid=CjwKCAjw1920BhA3EiwAJT3lSdQ9wc2AQAje1Z4eSi_jtSLQHlEsPZBrf2OP95iOFeNgQe5EpfCzZBoCIDsQAvD_BwE&trk=6a4c3e9d-cdc9-4e25-8dd9-2bd8d15afbca&sc_channel=ps&ef_id=CjwKCAjw1920BhA3EiwAJT3lSdQ9wc2AQAje1Z4eSi_jtSLQHlEsPZBrf2OP95iOFeNgQe5EpfCzZBoCIDsQAvD_BwE:G:s&s_kwcid=AL!4422!3!651751059780!e!!g!!aws!19852662197!145019195897"
+        date: "Jume 2024 - Current"
+        info:
+          enable: true
+          content: "Location: Seattle, WA "
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: 
+        
+    items:
       - job: "Cloud/Infrastructure Engineer"
         company: "Barclays - Global Technology Infrastructure Services"
         companyUrl: "https://cards.barclaycardus.com/"
-        date: "Jan 2023 - Current"
+        date: "Jan 2023 - June 2024"
         info:
           enable: true
           content: "Location: Whippany, NJ "
