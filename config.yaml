@@ -102,14 +102,12 @@ params:
     button:
       background - color: 
       enable: true
-      name: "Resume"
-      url: "https://docs.google.com/document/d/1a0hs-TN4p8ktH3FSd_BXCqC6oxawpmDGct_kl98sIqY/edit?usp=drivesdk"
+      name: "Book a 1:1 with me"
+      url: "https://topmate.io/keerthi_sreenivas_konjety"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Keerthi-Sreenivas
-        - icon: fab fa-topmate
-          url: https://topmate.io/keerthi_sreenivas_konjety
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/keerthi-sreenivas-90b78a185/
         - icon: fab fa-instagram
