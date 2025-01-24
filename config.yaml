@@ -151,10 +151,10 @@ params:
           enable: false
           url: "https://example.com"
         content: 
-        Bellevue, WA
-        - Acting as a trusted technical advisor for Resiliency, Security, AWS Architecture implementations for AWS Customers
-        - Lead Q Business & Bedrock enablement sessions for AWS Customers & internal teams
-        - Orchestrating PoCs of AI/ML AWS services with AWS Customers 
+         Bellevue, WA
+         - Acting as a trusted technical advisor for Resiliency, Security, AWS Architecture implementations for AWS Customers
+         - Lead Q Business & Bedrock enablement sessions for AWS Customers & internal teams
+         - Orchestrating PoCs of AI/ML AWS services with AWS Customers 
         
     items:
       - job: "Cloud/Infrastructure Engineer"
