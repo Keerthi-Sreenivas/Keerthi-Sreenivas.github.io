@@ -102,7 +102,7 @@ params:
     button:
       background - color: 
       enable: true
-      name: "Book a 1:1 with me"
+      name: "Connect with me"
       url: "https://topmate.io/keerthi_sreenivas_konjety"
     socialLinks:
       fontAwesomeIcons:
@@ -124,16 +124,15 @@ params:
     image: "/images/tempImageuVymn1_adobe_express.jpeg"
     content: |-
      I'm currently working as an Enterprise Support Engineer at AWS.
-     I Worked at Barclays as Cloud and Infrastructure engineer in the Observability team at Barclays and my activities involved collaborating with infrastructure stakeholders, building pipelines and telling stories using data.
-     I was a part of the Data Science by co-op at Allogene Therapeutics.
-     A Masters in Data Science student with 4+ years of academic experience in Python, R, Machine Learning and Big Data. 
+     I previously worked at Barclays as Cloud and Infrastructure engineer in the Observability team at Barclays and my activities involved collaborating with infrastructure stakeholders, building pipelines and telling stories using data.
+     I was a part of the Data Science by co-op at Allogene Therapeutics & have a Master's in Data Science.
      I have a strong interest in the the intersection of Technology and Business.
      
     skills:
       enable: true
       title: "Skills:"
       items:
-        - "Python, R Shiny, R, SQL, HTML, CSS, Javascript, Ruby, KQL, SPL, AWS S3, Elasticsearch, Kibana, Logstash, Kafka, Kafka connect, Splunk, AWS Cloudformation, AWS Cloudwatch, APM"
+        - "AWS Opensearch, AWS Bedrock, AWS Q Business, AWS Cloudformation, Python, R Shiny, R, SQL, HTML, CSS, Javascript, Ruby, KQL, SPL, AWS S3, Elasticsearch, Kibana, Logstash, Kafka, Kafka connect, Splunk, APM"
         - "Mentorship, Team Player, Advocate for DEI"
        
 
@@ -152,6 +151,10 @@ params:
           enable: false
           url: "https://example.com"
         content: 
+        Bellevue, WA
+        - Acting as a trusted technical advisor for Resiliency, Security, AWS Architecture implementations for AWS Customers
+        - Lead Q Business & Bedrock enablement sessions for AWS Customers & internal teams
+        - Orchestrating PoCs of AI/ML AWS services with AWS Customers 
         
     items:
       - job: "Cloud/Infrastructure Engineer"
@@ -205,7 +208,7 @@ params:
           content:
         content: |-
           Rochester, NY
-          - Conducted weekly doubt-solving sessions & taught 200+ students on Big data tools like: Hadoop, Hive, PySpark, Databricks
+          - Conducted weekly sessions & taught 200+ students on Big data tools like: Hadoop, Hive, PySpark, Databricks
           - Assisted students in connecting and file sharing in Hadoop clusters hosted on AWS S3 and other ad-hoc data democratization tasks.
 
       - job: "Technical Instructor Intern"
@@ -219,10 +222,10 @@ params:
           enable: false
           url: "https://www.kitolit.com"
         info:
-          content: Generated a revenue of $6,400 for the startup by offering one-on-one sessions during late/early hours from India for students in the USA, designing course structure and content.
+          content: Generated a revenue of $6,400 for the startup by offering one-on-one sessions from India for students in the USA, designing course structure and content.
         content: |-
           Hyderabad, India
-          - Designed the curriculum and produced Content for an experiential learning course “Javascript  for Middle School Kids” by creating fun and interactive lessons  increasing enrollment by 45% Qtr over Qtr
+          - Designed the curriculum and produced Content for an experiential learning course “Javascript  for Middle School Kids” by creating fun and interactive lessons increasing enrollment by 45% Qtr over Qtr
           - Offered one-on-one Mentoring  sessions from India for students in the USA henceforth generating revenue of $6,400   
           
       - job: "IoT Intern"
