@@ -5,9 +5,15 @@ document.addEventListener('DOMContentLoaded', function () {
   const themeToggle = document.querySelector('.theme-toggle');
   const htmlEl = document.documentElement;
 
-  // Load saved theme or default to dark
-  const savedTheme = localStorage.getItem('theme') || 'dark';
-  htmlEl.setAttribute('data-theme', savedTheme);
+  // Load saved theme, respect OS preference, or default to dark
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme) {
+    htmlEl.setAttribute('data-theme', savedTheme);
+  } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+    htmlEl.setAttribute('data-theme', 'light');
+  } else {
+    htmlEl.setAttribute('data-theme', 'dark');
+  }
 
   if (themeToggle) {
     themeToggle.addEventListener('click', function () {
@@ -91,6 +97,22 @@ document.addEventListener('DOMContentLoaded', function () {
       link.addEventListener('click', function () {
         navMenu.classList.remove('active');
       });
+    });
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function (e) {
+      if (navMenu.classList.contains('active') &&
+          !navMenu.contains(e.target) &&
+          !hamburger.contains(e.target)) {
+        navMenu.classList.remove('active');
+      }
+    });
+
+    // Close menu on Escape key
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && navMenu.classList.contains('active')) {
+        navMenu.classList.remove('active');
+      }
     });
   }
 });
