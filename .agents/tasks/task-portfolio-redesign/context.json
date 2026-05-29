@@ -1,0 +1,28 @@
+{
+  "project_type": "Static HTML/CSS/JS portfolio website (converting from Hugo)",
+  "language": "HTML, CSS, JavaScript",
+  "build_system": "None - static files served directly by GitHub Pages",
+  "test_framework": "None - visual verification only",
+  "build_command": "No build step needed - static HTML/CSS/JS",
+  "test_command": "Validate HTML structure exists and files are in place: ls index.html css/style.css js/main.js images/",
+  "verification_instructions": "1. Verify index.html exists at repo root. 2. Verify css/style.css and js/main.js exist. 3. Verify images directory contains me_.jpg, tempImageuVymn1_adobe_express.jpeg, projects/Colorization3.png, projects/doge4.jpeg, projects/advert1.jpeg. 4. Verify Hugo-specific files (config.yaml, themes/, content/, hugo, .hugo_build.lock, public/) are removed. 5. Verify .github/workflows is updated for static site deployment.",
+  "snapshot_or_generated_files": null,
+  "setup_instructions": "No setup needed - pure static site with no dependencies",
+  "environment_constraints": "INTEGRATIONS_ONLY network mode - no npm install, no CDN access, no external package downloads. All CSS and JS must be written inline/locally. Use system font stacks instead of Google Fonts.",
+  "contribution_requirements": "None specified",
+  "key_patterns": "Single page application with sections for hero, about, experience, education, achievements, projects, contact. Dark mode default with theme toggle. All data from config.yaml must be preserved. Images referenced from images/ directory at repo root.",
+  "relevant_files": [
+    "index.html (to create)",
+    "css/style.css (to create)",
+    "js/main.js (to create)",
+    "images/ (to create by moving from static/images/)",
+    ".github/workflows/main.yml (to update)",
+    "config.yaml (to remove)",
+    "content/ (to remove)",
+    "themes/ (to remove if exists)",
+    "hugo (to remove)",
+    ".hugo_build.lock (to remove)",
+    "public/ (to remove)"
+  ],
+  "directory_structure": "Current: Hugo site with config.yaml, content/, static/images/, public/ (built output), .github/workflows/. Target: index.html at root, css/, js/, images/ directories, .github/workflows/ updated."
+}
