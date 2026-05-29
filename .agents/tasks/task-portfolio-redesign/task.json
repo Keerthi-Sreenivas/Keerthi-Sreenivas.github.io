@@ -1,0 +1,7 @@
+{
+  "task_id": "task-portfolio-redesign",
+  "task_description": "Redesign the Hugo portfolio site as a modern static HTML/CSS/JS single-page application styled after nikolovlazar.com. Clean up Hugo files, restructure the repo, and create a complete portfolio with dark/light theme, animations, responsive design, and all original content preserved.",
+  "status": "in_progress",
+  "feature_order": ["FEAT-001", "FEAT-002"],
+  "blocked_reason": null
+}

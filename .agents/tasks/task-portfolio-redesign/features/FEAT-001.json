@@ -1,0 +1,27 @@
+{
+  "id": "FEAT-001",
+  "type": "chore",
+  "description": "Clean up Hugo-specific files and restructure the repository for a static HTML/CSS/JS site. Move images from static/images/ to images/ at the repo root. Remove Hugo artifacts (config.yaml, content/, themes/, hugo binary, .hugo_build.lock, public/). Create the css/ and js/ directories. Update .github/workflows/main.yml to deploy static files directly from the main branch root (no Hugo build step).",
+  "status": "in_progress",
+  "steps": [
+    "Move static/images/ directory to images/ at the repo root, preserving all files including the projects/ subdirectory",
+    "Remove Hugo-specific files and directories: config.yaml, content/, public/, hugo (binary), .hugo_build.lock, themes/ (if it exists)",
+    "Remove the static/ directory (now empty after moving images)",
+    "Create empty css/ directory",
+    "Create empty js/ directory",
+    "Update .github/workflows/main.yml to deploy static files. Replace the Hugo build workflow with a simple GitHub Pages deployment that serves files from the root of the main branch. Use the actions/deploy-pages approach or peaceiris/actions-gh-pages pointing to ./ as publish_dir"
+  ],
+  "acceptance_criteria": [
+    "images/ directory exists at repo root with me_.jpg, tempImageuVymn1_adobe_express.jpeg, and projects/ subdirectory containing Colorization3.png, doge4.jpeg, advert1.jpeg",
+    "No Hugo files remain: config.yaml, content/, public/, hugo, .hugo_build.lock are all removed",
+    "css/ and js/ directories exist",
+    ".github/workflows/main.yml is updated to deploy static files without Hugo"
+  ],
+  "verification": [
+    "Run: ls images/me_.jpg images/tempImageuVymn1_adobe_express.jpeg images/projects/Colorization3.png images/projects/doge4.jpeg images/projects/advert1.jpeg",
+    "Run: test ! -f config.yaml && test ! -d content && test ! -d public && test ! -f hugo && test ! -f .hugo_build.lock && echo 'Hugo cleanup verified'",
+    "Run: test -d css && test -d js && echo 'Directories exist'"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}
