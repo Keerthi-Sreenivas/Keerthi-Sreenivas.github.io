@@ -714,6 +714,11 @@ section {
   overflow: hidden;
 }
 
+.video-thumbnail-placeholder {
+  aspect-ratio: 16 / 9;
+  background: linear-gradient(135deg, var(--bg-secondary), var(--border-color));
+}
+
 .video-thumbnail img {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -1000,6 +1005,10 @@ section {
 @media (min-width: 1024px) {
   .projects-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .blogs-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .community-grid {
