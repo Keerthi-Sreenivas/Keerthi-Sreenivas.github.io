@@ -1,10 +1,15 @@
-// Minimal JS - theme toggle only
+// Minimal JS - no heavy frameworks needed
 (function () {
-  const html = document.documentElement;
-  const stored = localStorage.getItem('theme');
-
-  if (stored === 'light') {
-    html.classList.remove('dark');
-    html.classList.add('light');
-  }
+  // Smooth scroll for anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      var href = this.getAttribute('href');
+      if (href === '#') return;
+      var target = document.querySelector(href);
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  });
 })();
