@@ -131,6 +131,12 @@ header {
   color: var(--fg-muted);
 }
 
+.header-focus {
+  color: var(--fg-muted);
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
 .header-card-shadow {
   position: absolute;
   top: 6px;
