@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Keerthi Sreenivas</title>
+  <link href="https://keerthi-sreenivas.github.io/feed.xml" rel="self"/>
+  <link href="https://keerthi-sreenivas.github.io/"/>
+  <id>https://keerthi-sreenivas.github.io/</id>
+  <updated>2026-04-10T00:00:00Z</updated>
+  <author><name>Keerthi Sreenivas</name></author>
+  <entry>
+    <title>How AI Assistants are Transforming SRE/DevOps</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/ai-assistants-transforming-sre-devops/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/ai-assistants-transforming-sre-devops/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Talks"/>
+    <summary>A presentation on how AI assistants are transforming the SRE/DevOps role, given at SRE Day Seattle 2026 Q2 to 50+ professionals.</summary>
+  </entry>
+  <entry>
+    <title>Automating Code Deployment Pipelines</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/automating-code-deployment-pipelines/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/automating-code-deployment-pipelines/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Videos"/>
+    <summary>A live demo of automating code deployment pipelines with AI assistance. 806+ views.</summary>
+  </entry>
+  <entry>
+    <title>Small Language Models</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/small-language-models/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/small-language-models/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Talks"/>
+    <summary>A session on small language models at the Black is Tech Conference.</summary>
+  </entry>
+  <entry>
+    <title>Automating SOC 2 Compliance</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/automating-soc-2-compliance/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/automating-soc-2-compliance/</id>
+    <updated>2026-04-10T00:00:00Z</updated>
+    <category term="Articles"/>
+    <summary>Co-authored with Planview: how Kiro helps teams automate the evidence gathering and checks behind SOC 2 compliance.</summary>
+  </entry>
+  <entry>
+    <title>How I Stopped Worrying About README Files</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/how-i-stopped-worrying-about-readme-files/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/how-i-stopped-worrying-about-readme-files/</id>
+    <updated>2025-10-09T00:00:00Z</updated>
+    <category term="Articles"/>
+    <summary>Set up agent hooks to automatically update your code documentation, so READMEs stay in sync with the code.</summary>
+  </entry>
+  <entry>
+    <title>Image Input in Amazon Q Developer CLI</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/image-input-in-amazon-q-developer-cli/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/image-input-in-amazon-q-developer-cli/</id>
+    <updated>2025-05-21T00:00:00Z</updated>
+    <category term="Articles"/>
+    <summary>Create code from architecture diagrams right in your terminal. Amazon Q Developer CLI is now Kiro CLI.</summary>
+  </entry>
+  <entry>
+    <title>Managing Conversations in Q CLI</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/managing-conversations-in-q-cli/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/managing-conversations-in-q-cli/</id>
+    <updated>2025-05-19T00:00:00Z</updated>
+    <category term="Articles"/>
+    <summary>Resume, load, and save context in Amazon Q Developer CLI (now Kiro CLI).</summary>
+  </entry>
+  <entry>
+    <title>Deep Learning Colorizer</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/deep-learning-colorizer/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/deep-learning-colorizer/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Projects"/>
+    <summary>Automatic colorization of black-and-white images using deep learning.</summary>
+  </entry>
+  <entry>
+    <title>Elon Musk Dogecoin Tweet Analysis</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/elon-musk-dogecoin-tweet-analysis/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/elon-musk-dogecoin-tweet-analysis/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Projects"/>
+    <summary>Analyzing the impact of tweets on cryptocurrency markets.</summary>
+  </entry>
+  <entry>
+    <title>Marketing Insights</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/marketing-insights/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/marketing-insights/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Projects"/>
+    <summary>Data-driven marketing analytics and visualization.</summary>
+  </entry>
+  <entry>
+    <title>Qriosity on Instagram</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/qriosity-instagram/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/qriosity-instagram/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Curiosity"/>
+    <summary>@qriositybykeerthi: bite-sized AI explainers, tools and learning for a community of 20K+ AI learners.</summary>
+  </entry>
+  <entry>
+    <title>Qriosity Community Events</title>
+    <link href="https://keerthi-sreenivas.github.io/posts/qriosity-community/"/>
+    <id>https://keerthi-sreenivas.github.io/posts/qriosity-community/</id>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <category term="Curiosity"/>
+    <summary>Biweekly AI blog reading, a free community event for anyone curious about AI.</summary>
+  </entry>
+</feed>

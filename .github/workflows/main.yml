@@ -27,8 +27,10 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Prepare deploy directory
         run: |
+          python3 tools/build.py
           mkdir -p _site
-          cp index.html _site/
+          cp index.html feed.xml _site/
+          cp -r posts _site/
           cp -r css _site/
           cp -r js _site/
           cp -r images _site/
