@@ -1,0 +1,138 @@
+{
+  "site": {
+    "url": "https://keerthi-sreenivas.github.io",
+    "domain": "keerthi-sreenivas.github.io",
+    "name": "Keerthi Sreenivas",
+    "role": "Specialist Solutions Architect (Agentic AI) at AWS",
+    "location": "Bellevue, WA",
+    "description": "Keerthi Sreenivas is a Specialist Solutions Architect (Agentic AI) at AWS and the creator behind Qriosity, a community of 20K+ AI learners. Writing, talks, projects and Webmentions.",
+    "github": "https://github.com/Keerthi-Sreenivas",
+    "linkedin": "https://www.linkedin.com/in/keer718/",
+    "instagram": "https://www.instagram.com/qriositybykeerthi/",
+    "topmate": "https://topmate.io/keerthi_sreenivas_konjety",
+    "luma": "https://luma.com/user/qriosity"
+  },
+  "items": [
+    {
+      "slug": "ai-assistants-transforming-sre-devops",
+      "category": "Talks",
+      "title": "How AI Assistants are Transforming SRE/DevOps",
+      "excerpt": "A presentation on how AI assistants are transforming the SRE/DevOps role, given at SRE Day Seattle 2026 Q2 to 50+ professionals.",
+      "url": "https://youtu.be/HzWcpR6UT84?si=N1K1rTQzrh65aaVy",
+      "cta": "Watch on YouTube",
+      "thumb": "images/thumbs/sreday.jpg",
+      "extra": [["Speaker page", "https://sreday.com/2026-seattle-q2/#speakers"]]
+    },
+    {
+      "slug": "automating-code-deployment-pipelines",
+      "category": "Videos",
+      "title": "Automating Code Deployment Pipelines",
+      "excerpt": "A live demo of automating code deployment pipelines with AI assistance. 806+ views.",
+      "url": "https://www.youtube.com/live/v9zktuaJ4P8?si=3xqvm51hzQpY6GDq",
+      "cta": "Watch on YouTube",
+      "thumb": "images/thumbs/deploy.jpg"
+    },
+    {
+      "slug": "small-language-models",
+      "category": "Talks",
+      "title": "Small Language Models",
+      "excerpt": "A session on small language models at the Black is Tech Conference.",
+      "url": "https://blackistechconference.com/schedule/eventschedule/",
+      "cta": "View the event schedule",
+      "placeholder": "SLM"
+    },
+    {
+      "slug": "automating-soc-2-compliance",
+      "category": "Articles",
+      "date": "2026-04-10",
+      "title": "Automating SOC 2 Compliance",
+      "excerpt": "Co-authored with Planview: how Kiro helps teams automate the evidence gathering and checks behind SOC 2 compliance.",
+      "url": "https://kiro.dev/blog/automating-soc-2-compliance/",
+      "cta": "Read on kiro.dev",
+      "thumb": "images/thumbs/soc2.png"
+    },
+    {
+      "slug": "how-i-stopped-worrying-about-readme-files",
+      "category": "Articles",
+      "date": "2025-10-09",
+      "title": "How I Stopped Worrying About README Files",
+      "excerpt": "Set up agent hooks to automatically update your code documentation, so READMEs stay in sync with the code.",
+      "url": "https://kiro.dev/blog/how-i-stopped-worrying-about-readme-files/",
+      "cta": "Read on kiro.dev",
+      "thumb": "images/thumbs/readme.png"
+    },
+    {
+      "slug": "image-input-in-amazon-q-developer-cli",
+      "category": "Articles",
+      "date": "2025-05-21",
+      "title": "Image Input in Amazon Q Developer CLI",
+      "excerpt": "Create code from architecture diagrams right in your terminal. Amazon Q Developer CLI is now Kiro CLI.",
+      "url": "https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/",
+      "cta": "Read on the AWS DevOps Blog",
+      "thumb": "images/thumbs/qcli-image.png"
+    },
+    {
+      "slug": "managing-conversations-in-q-cli",
+      "category": "Articles",
+      "date": "2025-05-19",
+      "title": "Managing Conversations in Q CLI",
+      "excerpt": "Resume, load, and save context in Amazon Q Developer CLI (now Kiro CLI).",
+      "url": "https://builder.aws.com/content/2uKLVWiD6gv8qlxeCX0rRcImjj2/managing-conversations-resume-load-and-save-context-in-amazon-q-developer-cli",
+      "cta": "Read on AWS Builder Center",
+      "thumb": "images/thumbs/qcli-context.png"
+    },
+    {
+      "slug": "deep-learning-colorizer",
+      "category": "Projects",
+      "title": "Deep Learning Colorizer",
+      "excerpt": "Automatic colorization of black-and-white images using deep learning.",
+      "url": "https://github.com/Keerthi-Sreenivas",
+      "cta": "See it on GitHub",
+      "thumb": "images/projects/Colorization3.png"
+    },
+    {
+      "slug": "elon-musk-dogecoin-tweet-analysis",
+      "category": "Projects",
+      "title": "Elon Musk Dogecoin Tweet Analysis",
+      "excerpt": "Analyzing the impact of tweets on cryptocurrency markets.",
+      "url": "https://github.com/Keerthi-Sreenivas",
+      "cta": "See it on GitHub",
+      "thumb": "images/projects/doge4.jpeg"
+    },
+    {
+      "slug": "marketing-insights",
+      "category": "Projects",
+      "title": "Marketing Insights",
+      "excerpt": "Data-driven marketing analytics and visualization.",
+      "url": "https://github.com/Keerthi-Sreenivas",
+      "cta": "See it on GitHub",
+      "thumb": "images/projects/advert1.jpeg"
+    },
+    {
+      "slug": "qriosity-instagram",
+      "category": "Curiosity",
+      "title": "Qriosity on Instagram",
+      "excerpt": "@qriositybykeerthi: bite-sized AI explainers, tools and learning for a community of 20K+ AI learners.",
+      "url": "https://www.instagram.com/qriositybykeerthi/",
+      "cta": "Follow on Instagram",
+      "placeholder": "Qriosity"
+    },
+    {
+      "slug": "qriosity-community",
+      "category": "Curiosity",
+      "title": "Qriosity Community Events",
+      "excerpt": "Biweekly AI blog reading, a free community event for anyone curious about AI.",
+      "url": "https://luma.com/user/qriosity",
+      "cta": "Join on Luma",
+      "placeholder": "Events"
+    }
+  ],
+  "community": [
+    ["Mentorship via Topmate", "https://topmate.io/keerthi_sreenivas_konjety", ""],
+    ["AWS re:Invent 2025 Speaker", "https://gist.github.com/talf/493afc6699cd7f649b3cd9d730946576", ""],
+    ["University of Rochester Mentoring", "https://www.linkedin.com/posts/keer718_meliora-uofr-activity-7431871422282760192-vlHo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACu4NJsBSZHHWctebpJpcJtdbUm_vndHEMs", ""],
+    ["Ambassador for AWS Simulearn Generative AI", "https://www.linkedin.com/posts/keer718_aws-simulearn-generative-ai-practitioner-activity-7331058332851417089-dUlL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACu4NJsBSZHHWctebpJpcJtdbUm_vndHEMs", ""],
+    ["Featured on Topmate Data Science experts", "https://topmate.io/topusers/efficient-data-science", ""],
+    ["Smart India Hackathon Winner", "https://www.iiitkottayam.ac.in/data/pdf/Nirhaar2k19.pdf", ""]
+  ]
+}
